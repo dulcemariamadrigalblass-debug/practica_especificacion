@@ -25,3 +25,6 @@ class Menu(object):
 
             else:
                 print("Opción no válida. Intente nuevamente.")
+
+
+                "Ejemplo de Programación Orientada a Objetos 29-10-2026"
